@@ -1,2 +1,11 @@
 # python-gui-app
-An app to improve workflow by opening up apps you typically use in a day.
+Open your most used apps at once.
+
+## Future Development
+Make the app look prettier
+
+
+![Photo of app]("./images/app.pic.png")
+
+### Developer:
+Sarah DeMercurio

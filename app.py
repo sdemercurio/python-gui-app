@@ -44,3 +44,7 @@ for app in apps:
 
 
 root.mainloop()
+
+with open('save.txt', 'w') as f:
+    for app in apps:
+        f.write(app + ',')

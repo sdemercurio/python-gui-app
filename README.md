@@ -5,7 +5,7 @@ Open your most used apps at once.
 Make the app look prettier
 
 
-![Photo of app]("/python-gui-app/images/app.pic.png")
+![Photo of app]("./python-gui-app/images/app.pic.png")
 
 ### Developer:
 Sarah DeMercurio
